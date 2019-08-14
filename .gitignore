@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.vscode/
+data
+dist/
+test.wav
+LUSS_log.txt
